@@ -9,4 +9,5 @@ Classes:
 
 [Software Classes ](https://github.com/provinescu/Software-Class)
 
+P.S. Les guides sont en français...c'est la vie...
 
