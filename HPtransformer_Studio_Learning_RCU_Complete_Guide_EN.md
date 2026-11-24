@@ -304,4 +304,3 @@ The screenshots below illustrate the compact Studio layout. The source screensho
 
 **Figure 4.** Five time-series metrics: Loss, Surprise, Entropy, Memory Recall, and Trajectory Recall.
 
-For a future documentation release, use separate native-resolution captures of Dashboard, Graphs, Heatmaps, Morphing, and RCU Snapshots.
