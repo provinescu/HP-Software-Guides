@@ -53,7 +53,7 @@ Depending on the application and edition, the guides may cover:
 - [Wekinator Models for HP Software](https://github.com/provinescu/Wekinator-Models-for-HP-Software)
 - [Wekinator](https://github.com/fiebrink1/wekinator)
 - [VSTPlugin](https://github.com/Spacechild1/vstplugin)
-- Were created using Platypus: https://github.com/dathinaios/sc_osx_standalone.
+- https://github.com/dathinaios/sc_osx_standalone.
 
 ## About
 
